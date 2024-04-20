@@ -3,7 +3,7 @@ import random as rd
 import sys
 from pygame.locals import *
 from time import sleep
-
+# gittest 브랜치 작업
 delay = 1
 
 # 초기화
